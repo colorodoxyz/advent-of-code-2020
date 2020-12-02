@@ -1,6 +1,6 @@
 /**
  * Author: Spencer Liu
- * Date: 02 December, 2020
+ * Date: 01 December, 2020
  * Sources: N/A
  */
 #include <stdio.h>
